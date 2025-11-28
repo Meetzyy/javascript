@@ -1,0 +1,113 @@
+{
+  "pitches": [
+    {
+      "id": "9",
+      "title": "Booz scooters",
+      "image": "https://static.wixstatic.com/media/5755f6_023c4baf970a43e4b187f7271a33fcad~mv2.png/v1/crop/x_237,y_352,w_1328,h_1331/fill/w_614,h_614,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/5755f6_023c4baf970a43e4b187f7271a33fcad~mv2.png",
+      "category": "Education",
+      "founder": "Tera Bhai Seedhe Maut",
+      "price": "54"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/915WVrOntJL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": 45,
+      "percentage": 25,
+      "description": "Get uniquely delicious and flavorful pickles and chutneys made by expert mom-chefs of Mithilanchal, Bihar. No Preservatives, No Additives, No Colors. Seasonal Fruits and Vegetables blended in locally sourced spices and mustard oil. ",
+      "founder": "Kalpana Jha ",
+      "category": "Food",
+      "year": "24-12-2018",
+      "title": "JhaJi Achaar",
+      "id": "10"
+    },
+    {
+      "image": "https://www.cocofit.in/images/Picture4_large.png",
+      "price": 25,
+      "percentage": 3.5,
+      "description": "We strive, respect and work hard every second taking our demigod to a new level with a delicious serving that would be a life changing experience.",
+      "founder": "Sashi Kanth V",
+      "category": "Food",
+      "year": "17-11-2017",
+      "title": "Cocofit",
+      "id": "11"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/5f24cf_a17220104bb5486d943ad3acd5808e90~mv2.png/v1/fill/w_506,h_314,al_c,q_80,usm_0.66_1.00_0.01/5f24cf_a17220104bb5486d943ad3acd5808e90~mv2.png",
+      "price": 26,
+      "percentage": 2.56,
+      "description": "Falhari is India’s #1 fresh fruit products brand with an extensive range of delightful, made-to-order recipes of Salads, Juices, Smoothies, Lassis, Yoghurts, and more",
+      "founder": "Rahul Shankar Bhardwaj",
+      "category": "Food",
+      "year": "20-12-2021",
+      "title": "Falhari",
+      "id": "13"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYOkeAS5PgCBISOPRp_mZJuIxJ74IyCAlP_A&usqp=CAU",
+      "price": 50,
+      "percentage": 2,
+      "description": "We push our boundaries every day, we’re here to innovate and inspire a new generation of sustainable sanitation technology. PadCare isn’t a startup, it’s a revolution.",
+      "founder": "Ajinkya Dhariya",
+      "category": "Electronics",
+      "year": "07-09-2022",
+      "title": "Padcare Lab",
+      "id": "15"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/617QlJ62nFL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": 57,
+      "percentage": 2,
+      "description": "aradyes is a semi-permanent hair color brand. She introduced the brand by identifying a gap in the market. Banking on her family business of dyes and intermediates, she teamed up with professionals and began R&D to formulate hair colors in their lab.",
+      "founder": "Yushika Jolly,",
+      "category": "Personal Care",
+      "year": "01-07-2021",
+      "title": "Paradyes",
+      "id": "16"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/610d1RfgHDL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": 100,
+      "percentage": 1.5,
+      "description": "A small device that can be attached to any normal stethoscope and the stethoscope will become a digital one. Using this device it can reduce background noise, better audio, and visual clarity, and after all, one can get the live stream of data. ",
+      "founder": "Adarsha K",
+      "category": "Electronics",
+      "year": "12-22-2014",
+      "title": "AyuSynk",
+      "id": "17"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/61pq3ae629L._AC_UY327_FMwebp_QL65_.jpg",
+      "price": 45,
+      "percentage": 10,
+      "description": "HoloKitab is an edTech platform that enables book publishers and manufacturers from various industries to deliver Augmented Reality content to their users in a cost effective way.",
+      "founder": "Dipanshu Bajaj and Nikhil Miglani",
+      "category": "Education",
+      "year": "15-04-2020",
+      "title": "HoloKitab",
+      "id": "22"
+    },
+    {
+      "id": "4359",
+      "title": "Levi's Jeans",
+      "image": "https://media-uk.landmarkshops.in/cdn-cgi/image/h=739,w=499,q=85,fit=cover/lifestyle/1000007789688-Blue-MIDSTONE-1000007789688_01-2100.jpg",
+      "category": "Men's Wear",
+      "founder": "ABC",
+      "price": "3250"
+    },
+    {
+      "title": "boAt Rockerz 650 pro",
+      "image": "https://www.boat-lifestyle.com/cdn/shop/files/mainimage_458147a3-eabc-4816-a1c0-429c950422ad_800x.png?v=1741067646",
+      "category": "Electronics",
+      "founder": "boAt",
+      "price": "2500",
+      "id": "qC0Gc7E"
+    },
+    {
+      "title": "Parachute Hair Oil",
+      "image": "https://assets.myntassets.com/w_412,q_auto:best,dpr_3,fl_progressive,f_webp/assets/images/11806902/2023/5/30/0964c862-75fa-469f-b5a9-59ce33407cb01685444775849-Parachute-Advansed-Gold-Coconut-Hair-Oil-for-Long--Strong-Ha-1.jpg",
+      "category": "Personal Care",
+      "founder": "Parachute",
+      "price": "300",
+      "id": "OU0ZsZZ"
+    }
+  ]
+}
